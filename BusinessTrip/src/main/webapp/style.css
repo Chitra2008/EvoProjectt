@@ -1,0 +1,37 @@
+@charset "ISO-8859-1";
+
+body {
+  background: #e35869;
+  font-family: 'Rubik', sans-serif;
+}
+
+
+#headline {
+	margin-top: 30px;
+	text-align: center;
+	text-shadow: 2cm;
+	font-weight: bold;
+	color: black;
+	font-family: 'Times New Roman', Times, serif;
+}
+
+.jini {
+	margin-left: 515px;
+	text-shadow: 2cm;
+	font-weight: bold;
+	color: black;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+		'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.dropdown {
+	margin-left: 515px;
+	text-shadow: 2cm;
+	font-weight: bold;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+		'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+input[type=date] {
+	text-align: right;
+}
